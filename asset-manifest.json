@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8948e15.css",
+    "main.js": "/static/js/main.1c54f671.js",
+    "static/media/toys-p-1.png": "/static/media/toys-p-1.81887c3940c8b4d27cb2.png",
+    "static/media/background-2.png": "/static/media/background-2.9ee6133439c34ebd65ca.png",
+    "static/media/chelavekpavuk.png": "/static/media/chelavekpavuk.6f8e2eab9f390572bf42.png",
+    "static/media/teddy.png": "/static/media/teddy.1bd652b177938d138b2e.png",
+    "static/media/grid-5.png": "/static/media/grid-5.2150bc200a9ef7895eb5.png",
+    "static/media/sunflower.png": "/static/media/sunflower.d94c882fe30d43d23aa5.png",
+    "static/media/grid-2.png": "/static/media/grid-2.7c269373fbe4fc4ff6d2.png",
+    "static/media/grid-3.png": "/static/media/grid-3.02c352c71a492d7ffcac.png",
+    "static/media/grid-6.png": "/static/media/grid-6.9c4c027c4582e29c001d.png",
+    "static/media/card-4-img.png": "/static/media/card-4-img.75c8f33e5a6cbe2f295f.png",
+    "static/media/grid-1.png": "/static/media/grid-1.8750b201456fe7a202fd.png",
+    "static/media/card-1-img.png": "/static/media/card-1-img.26fcd57267775950d807.png",
+    "static/media/card-5-img.png": "/static/media/card-5-img.fb4f42ad5bee44439cd4.png",
+    "static/media/card-3-img.png": "/static/media/card-3-img.dcf79dbcfb9573b43f97.png",
+    "static/media/card-2-img.png": "/static/media/card-2-img.28034f5aec4ee4b018d7.png",
+    "static/media/card-6-img.png": "/static/media/card-6-img.705df38347753bc683d3.png",
+    "static/media/card-7-img.png": "/static/media/card-7-img.bb1d6547fdfc0fae8f40.png",
+    "static/media/grid-4.png": "/static/media/grid-4.9ecae646ce1f06a4eef1.png",
+    "static/media/card-8-img.png": "/static/media/card-8-img.d86fe079e016952d2580.png",
+    "index.html": "/index.html",
+    "main.e8948e15.css.map": "/static/css/main.e8948e15.css.map",
+    "main.1c54f671.js.map": "/static/js/main.1c54f671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8948e15.css",
+    "static/js/main.1c54f671.js"
+  ]
+}
